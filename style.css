@@ -42,32 +42,32 @@ nav{
 }
 
 #bd{
-    height: 90vh;
+    height: 89.6vh;
 }
 
 .container{
     font-family: 'Supermercado One', cursive;
     display: flex;
     min-width: 80vw;
-    min-height: 50vh;
+    /* min-height: 50vh; */
     flex-direction: column;
     align-items: center;
     gap: 2rem;
-    padding: 4rem 3rem;
     flex-wrap: wrap;
     align-content: center;
     justify-content: center;
 }
 
 #bg{
-    padding: 3rem;
-    min-width: 50%;
+    margin-top: 15vh;
+    padding: 2.2rem;
+    max-width: 50%;
     display: flex;
+    flex-wrap: wrap;
     font-size: 1.7rem;
     align-items: center;
     justify-content: center;
     color: aliceblue;
-    height: 20vh;
     border-radius: 25px;
     background-color: #1c1e1f;
 }
